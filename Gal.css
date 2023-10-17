@@ -180,4 +180,5 @@
 .footer {
   max-width: 100%;
   background-color: #A8F1E1;
+  display: flexbox;
 }
